@@ -28,7 +28,7 @@ This project showcases how OOP principles—encapsulation, inheritance, abstract
 ## 👥 Authors
 - Namrata Mali 
 - Ayush Kumar Gupta 
-- *Sai Mani Ritish Upadhyayula *
+- Sai Mani Ritish Upadhyayula 
 - Vidhiben Ashokbhai Vanani 
 
 ## 📜 License
