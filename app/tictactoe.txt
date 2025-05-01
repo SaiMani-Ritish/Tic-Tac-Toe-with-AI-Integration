@@ -1,0 +1,149 @@
+
+Round 1 (Board Size: 3x3):
+X	O
+X:2	
+	O:1
+X:5	
+	O:8
+X:3	
+	O:7
+X:4	
+	O:9
+
+Round 2 (Board Size: 3x3):
+X	O
+X:5	
+	O:1
+X:2	
+	O:8
+X:4	
+	O:6
+X:3	
+	O:7
+X:9	
+
+Round 3 (Board Size: 3x3):
+X	O
+X:5	
+	O:1
+X:3	
+	O:7
+X:2	
+	O:4
+
+Round 4 (Board Size: 5x5):
+X	O
+X:18	
+	O:1
+X:13	
+	O:2
+X:8	
+	O:3
+X:23	
+	O:4
+X:24	
+	O:5
+
+Round 5 (Board Size: 5x5):
+X	O
+X:7	
+	O:1
+X:13	
+	O:2
+X:3	
+	O:4
+X:5	
+	O:6
+X:8	
+	O:9
+X:18	
+	O:23
+X:12	
+	O:10
+X:11	
+	O:14
+X:19	
+	O:15
+X:20	
+	O:16
+X:22	
+	O:17
+X:24	
+	O:21
+X:25	
+
+Round 6 (Board Size: 5x5):
+X	O
+X:3	
+	O:1
+X:8	
+	O:2
+X:13	
+	O:4
+X:18	
+	O:23
+X:9	
+	O:5
+X:10	
+	O:6
+X:7	
+	O:11
+X:14	
+	O:12
+X:15	
+	O:16
+X:20	
+	O:21
+
+Round 7 (Board Size: 3x3):
+X	O
+X:1	
+	O:2
+X:9	
+	O:5
+X:7	
+	O:8
+
+Round 8 (Board Size: 3x3):
+X	O
+X:1	
+	O:2
+X:9	
+	O:5
+X:8	
+	O:7
+X:3	
+	O:6
+X:4	
+
+Round 9 (Board Size: 5x5):
+X	O
+X:11	
+	O:1
+X:17	
+	O:2
+X:12	
+
+Round 10 (Board Size: 5x5):
+X	O
+X:1	
+
+Round 11 (Board Size: 5x5):
+X	O
+X:13	
+	O:1
+X:12	
+	O:2
+
+Round 12 (Board Size: 5x5):
+X	O
+X:7	
+	O:1
+X:13	
+	O:2
+X:18	
+	O:3
+X:6	
+	O:4
+X:9	
+	O:5
